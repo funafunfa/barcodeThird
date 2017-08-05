@@ -7,9 +7,9 @@
   <body>
     <p>also known as: ISO/IEC 16022:2000(E)</p>
     <section id="example">
-      <title>usseless.Example</title>
-      <figure src="../images/example-datamatrix-square.png" alt="usseless.Example DataMatrix symbol (square)"/>
-      <figure src="../images/example-datamatrix-rect.png" alt="usseless.Example DataMatrix symbol (rectangular)"/>
+      <title>testing.example</title>
+      <figure src="../images/example-datamatrix-square.png" alt="testing.example DataMatrix symbol (square)"/>
+      <figure src="../images/example-datamatrix-rect.png" alt="testing.example DataMatrix symbol (rectangular)"/>
     </section>
     <section id="structure">
       <title>Structure</title>

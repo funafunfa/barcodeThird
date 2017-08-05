@@ -6,8 +6,8 @@
   </header>
   <body>
     <section id="example">
-      <title>usseless.Example</title>
-      <figure src="../images/example-ean-13.png" alt="usseless.Example EAN-13 symbol"/>
+      <title>testing.example</title>
+      <figure src="../images/example-ean-13.png" alt="testing.example EAN-13 symbol"/>
     </section>
     <section id="structure">
       <title>Structure</title>
@@ -37,8 +37,8 @@
         	check character is checked.
         </li>
         <li>
-          Supplementals are supported (2 and 5 characters). You can add them by appending a "+" 
-          along with the supplemental message to the barcode message. usseless.Example: 9783468111242+56789
+            Supplementals are supported (2 and 5 characters). You can add them by appending a "+"
+            along with the supplemental message to the barcode message. testing.Example: 9783468111242+56789
         </li>
       </ul>
     </section>

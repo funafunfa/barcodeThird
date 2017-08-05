@@ -6,8 +6,8 @@
   </header>
   <body>
     <section id="example">
-      <title>usseless.Example</title>
-      <figure src="../images/example-upc-a.png" alt="usseless.Example UPC-A symbol"/>
+      <title>testing.example</title>
+      <figure src="../images/example-upc-a.png" alt="testing.example UPC-A symbol"/>
     </section>
     <section id="structure">
       <title>Structure</title>
@@ -37,8 +37,8 @@
         	check character is checked.
         </li>
         <li>
-          Supplementals are supported (2 and 5 characters). You can add them by appending a "+" 
-          along with the supplemental message to the barcode message. usseless.Example: 037145007991+51528
+            Supplementals are supported (2 and 5 characters). You can add them by appending a "+"
+            along with the supplemental message to the barcode message. testing.Example: 037145007991+51528
         </li>
       </ul>
     </section>

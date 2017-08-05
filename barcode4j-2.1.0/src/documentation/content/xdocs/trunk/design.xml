@@ -36,9 +36,9 @@
         <title>org.krysalis.barcode4j</title>
         <p>This package holds the primary interfaces for generating barcodes.</p>
         <section>
-          <title>main.Main interfaces</title>
+          <title>main.main interfaces</title>
           <ul>
-            <li><strong>BarcodeGenerator</strong>: main.Main interface for generating barcodes.</li>
+            <li><strong>BarcodeGenerator</strong>: main.main interface for generating barcodes.</li>
             <li><strong>BarcodeClassResolver</strong>: Resolves symbolic names to barcode implementation classes.</li>
             <li>
               <strong>BarcodeLogicHandler</strong>: Receives barcode events (similar to SAX events for XML) 

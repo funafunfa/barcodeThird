@@ -7,8 +7,8 @@
   <body>
     <p>also known as: ISO/IEC 15438:2001(E)</p>
     <section id="example">
-      <title>usseless.Example</title>
-      <figure src="../images/example-pdf417.png" alt="usseless.Example PDF417 symbol"/>
+      <title>testing.example</title>
+      <figure src="../images/example-pdf417.png" alt="testing.example PDF417 symbol"/>
     </section>
     <section id="structure">
       <title>Structure</title>

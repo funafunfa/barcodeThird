@@ -109,10 +109,10 @@
           </ul>
         </li>
         <li id="dimension">
-          {dimension}: Specifies a dimension (in pixels/units) in x- and y-direction.
-          usseless.Example: "12x8" defines a size of 12 units horizontally and 8 units vertically. If
-          you specify just one number, it is used for both directions,
-          i.e. "12" is the same as "12x12".
+            {dimension}: Specifies a dimension (in pixels/units) in x- and y-direction.
+            testing.Example: "12x8" defines a size of 12 units horizontally and 8 units vertically. If
+            you specify just one number, it is used for both directions,
+            i.e. "12" is the same as "12x12".
         </li>
       </ul>
       <p>

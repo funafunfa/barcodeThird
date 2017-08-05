@@ -6,8 +6,8 @@
   </header>
   <body>
     <section id="example">
-      <title>usseless.Example</title>
-      <figure src="../images/example-upc-e.png" alt="usseless.Example UPC-E symbol"/>
+      <title>testing.example</title>
+      <figure src="../images/example-upc-e.png" alt="testing.example UPC-E symbol"/>
     </section>
     <section id="structure">
       <title>Structure</title>
@@ -42,8 +42,8 @@
         	If the UPC-A message cannot be converted to a UPC-E message you'll get an exception.
         </li>
         <li>
-          Supplementals are supported (2 and 5 characters). You can add them by appending a "+" 
-          along with the supplemental message to the barcode message. usseless.Example: 0123413+77
+            Supplementals are supported (2 and 5 characters). You can add them by appending a "+"
+            along with the supplemental message to the barcode message. testing.Example: 0123413+77
         </li>
       </ul>
     </section>

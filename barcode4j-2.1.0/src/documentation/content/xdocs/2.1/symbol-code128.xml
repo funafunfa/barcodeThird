@@ -7,8 +7,8 @@
   <body>
     <p>see also: <link href="symbol-ean-128.html">UCC/EAN-128, GS1-128</link></p>
     <section id="example">
-      <title>usseless.Example</title>
-      <figure src="../images/example-code128.png" alt="usseless.Example Code 128 symbol"/>
+      <title>testing.example</title>
+      <figure src="../images/example-code128.png" alt="testing.example Code 128 symbol"/>
     </section>
     <section id="structure">
       <title>Structure</title>
@@ -32,9 +32,9 @@
       <ul>
         <li>The height should be at least 0.15 times the barcode's length or 0.25 inches.</li>
         <li>
-          Code 128 codesets can be restricted to A, B, C or a combination of the three. usseless.Example:
-          "AB" enables A and B. "C" just enables C and therefore only allows an even number of
-          digits.
+            Code 128 codesets can be restricted to A, B, C or a combination of the three. testing.Example:
+            "AB" enables A and B. "C" just enables C and therefore only allows an even number of
+            digits.
         </li>
       </ul>
     </section>

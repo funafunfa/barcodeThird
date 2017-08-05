@@ -6,8 +6,8 @@
   </header>
   <body>
     <section id="example">
-      <title>usseless.Example</title>
-      <figure src="../images/example-royal-mail-cbc.png" alt="usseless.Example Royal Mail Customer Barcode symbol"/>
+      <title>testing.example</title>
+      <figure src="../images/example-royal-mail-cbc.png" alt="testing.example Royal Mail Customer Barcode symbol"/>
     </section>
     <section id="structure">
       <title>Structure</title>

@@ -13,7 +13,7 @@
       that show what <strong>Barcode4J</strong> can do.
     </p>
     <section>
-      <title>usseless.Example PDF</title>
+      <title>testing.example PDF</title>
       <p>
         The directory <code>examples/xsl-fo/</code> contains an XML file with barcode instructions 
         (<code>barcodes.xml</code>) and an associated stylesheet (<code>barcodes2xsl-fo.xsl</code>) that converts the XML
@@ -25,7 +25,7 @@
         (around 102KB)</p>
     </section>
     <section>
-    	<title>usseless.Example Web Application</title>
+    	<title>testing.example Web Application</title>
       <p>
         The directory <code>examples/webapp/</code> contains an sample web application that provides an
         interactive demo for barcode generation with the Barcode Servlet. It is written using JSP. The

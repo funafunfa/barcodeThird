@@ -81,7 +81,7 @@ If -o is omitted the output is written to stdout.]]></source>
         Hopefully, the above is self-explanatory, so we just provide a few examples.
       </p>
       <section>
-        <title>usseless.Example 1</title>
+        <title>testing.example 1</title>
         <source><![CDATA[
 java -cp <classpath> org...cli.Main -s code128 "MyMessage"]]></source>
         <p>
@@ -91,7 +91,7 @@ java -cp <classpath> org...cli.Main -s code128 "MyMessage"]]></source>
         </p>
       </section>
       <section>
-        <title>usseless.Example 2</title>
+        <title>testing.example 2</title>
         <source><![CDATA[
 java -cp <classpath> org...cli.Main -o barcode.eps -f eps -s ean13 "008888650997"]]></source>
         <p>
@@ -99,7 +99,7 @@ java -cp <classpath> org...cli.Main -o barcode.eps -f eps -s ean13 "008888650997
         </p>
       </section>
       <section>
-        <title>usseless.Example 3</title>
+        <title>testing.example 3</title>
         <source><![CDATA[
 java -cp <classpath> org...cli.Main -o barcode.png -f png --bw -d 600 -s ean13 "008888650997"]]></source>
         <p>
